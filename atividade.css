@@ -1,0 +1,58 @@
+body{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.caixa{
+    display: flex;
+    justify-content: center;
+    margin: 50px;
+}
+
+.caixa div{
+    background-color: whitesmoke;
+    margin: 10px;
+    padding: 10px;
+}
+
+.caixa img{
+    height: 225px;
+    width: 200px;
+    justify-content: center;
+    border-radius: 10px;
+}
+
+.p0:hover{
+    background-color: yellow;
+    transition: background-color 0.8s ease;
+    transform: scale(1.1);
+}
+.p1:hover {
+    background-color: red;
+    transition: background-color 0.8s ease;
+    transform: scale(1.1);
+}
+
+.p2:hover {
+    background-color: blue;
+    transition: background-color 0.8s ease;
+    transform: scale(1.1);
+}
+
+.p3:hover {
+    background-color: green;
+    transition: background-color 0.8s ease;
+    transform: scale(1.1);
+}
+
+.p4:hover {
+    background-color: cyan;
+    transition: background-color 0.8s ease;
+    transform: scale(1.1);
+}
+
+.p5:hover {
+    background-color: mediumslateblue;
+    transition: background-color 0.8s ease;
+    transform: scale(1.1);
+}
