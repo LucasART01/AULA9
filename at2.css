@@ -2,13 +2,13 @@ body{
     font-family: Arial, Helvetica, sans-serif;
     display: flex;
     justify-content: center;
+    
 }
 
 .imagem img{
     height: 930px;
     width: 930px;
     border-radius: 10px;
-    margin: 20px;
 }
 
 .hashtag{
@@ -23,5 +23,7 @@ body{
 
 .texto {
     text-align: center;
+    padding: 150px;
+    font-size: 20px;
 }
 
